@@ -1,0 +1,30 @@
+.container{
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.content{
+  width: 80%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.header{
+  font-size: 44px;
+  font-weight: 500;
+}
+.subheader{
+  color: #8C8C8C;
+}
+.accentText{
+  font-weight: 500;
+  color: #1D1D1D;
+}
+.buttonsContainer{
+  display: flex;
+  gap: 20px;
+}
